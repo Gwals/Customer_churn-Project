@@ -28,6 +28,11 @@ Tableau(Worksheets, Dashbord, Story)
 ![story3](https://github.com/user-attachments/assets/58c40870-4850-49dd-9fed-1d344f9e2ca3)
 
 ### Recommendation
+- Conducting competitive analysis to analyze the gap between your services and the competitors services.
+- Improving service quality
+- Introducing unique ideas that competitors lack.
+- Ensuring good quality relationship with customers. <br>
+
 For a full interactive story use this link, <a href="https://github.com/Gwals/Customer_churn-Project/blob/main/3_5_story_solution.twbx" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;"> Customer Churn Story</a>
 
 
